@@ -1,4 +1,4 @@
-# MATLAB_Free_Falling_Ball
+# Free_Falling_Ball
 
 This set of files uses a more complex but general approach 
 to demonstrate how to solve the trajectory of a freely falling ball. 
